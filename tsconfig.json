@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+		"outDir": "build",
+		"target": "es6",
+		"strict": true,
+		"lib": ["ES6"],
+		"baseUrl": "./src",
+		"esModuleInterop": true,
+		"allowJs": true,
+		"allowSyntheticDefaultImports": true,
+		"moduleResolution": "node",
+		"module": "commonjs",
+		"resolveJsonModule": true,
+		"skipLibCheck": true,
+		"isolatedModules": true
+	}
+}
